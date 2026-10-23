@@ -15,7 +15,7 @@
     {
       "binding": "DB",
       "database_name": "parcel",
-      "database_id": "00000000-0000-0000-0000-000000000000",
+      "database_id": "0be1e08c-5edd-4f5d-a4b3-2c1d37641428",
       "migrations_dir": "cloudflare/v3/migrations"
     }
   ],
