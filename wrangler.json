@@ -33,9 +33,9 @@
     "ADMIN_AUTH": "totp",
     "R2_ENDPOINT": "https://1d500b4f7e10763ba4ce586ad6ee4c3f.r2.cloudflarestorage.com",
     "R2_BUCKET_NAME": "parcel",
-    "STORAGE_QUOTA_BYTES": "9000000000",
+    "STORAGE_QUOTA_BYTES": "5000000000",
     "MAX_FILE_BYTES": "8589934592",
-    "ACTIVE": "false",
+    "ACTIVE": "true",
     "WORKERS_PLAN": "free",
     "CLEANUP_BATCH_SIZE": "1"
   },
@@ -65,7 +65,7 @@
       "persist": true
     },
     "traces": {
-      "enabled": false,
+      "enabled": true,
       "head_sampling_rate": 1,
       "persist": true
     },
