@@ -3,7 +3,7 @@
   "name": "parcel",
   "main": "cloudflare/v3/worker.mjs",
   "compatibility_date": "2026-10-10",
-  "workers_dev": true,
+  "workers_dev": false,
   "preview_urls": false,
   "assets": {
     "directory": "./dist/v3-web",
@@ -36,6 +36,7 @@
     "STORAGE_QUOTA_BYTES": "9000000000",
     "MAX_FILE_BYTES": "8589934592",
     "ACTIVE": "false",
+    
     "WORKERS_PLAN": "free",
     "CLEANUP_BATCH_SIZE": "1"
   },
