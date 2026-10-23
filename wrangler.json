@@ -29,14 +29,13 @@
     "crons": ["*/5 * * * *"]
   },
   "vars": {
-    "PUBLIC_URL": "https://parcel.example.com",
+    "PUBLIC_URL": "https://s.979863.xyz",
     "ADMIN_AUTH": "totp",
-    "R2_ENDPOINT": "https://your-account.r2.cloudflarestorage.com",
+    "R2_ENDPOINT": "https://1d500b4f7e10763ba4ce586ad6ee4c3f.r2.cloudflarestorage.com",
     "R2_BUCKET_NAME": "parcel",
     "STORAGE_QUOTA_BYTES": "9000000000",
     "MAX_FILE_BYTES": "8589934592",
     "ACTIVE": "false",
-    
     "WORKERS_PLAN": "free",
     "CLEANUP_BATCH_SIZE": "1"
   },
